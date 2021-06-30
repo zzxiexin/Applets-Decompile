@@ -44,21 +44,6 @@ npm run build:win32
 npm run build:win64
 ```
 
-
-#### [小程序逆向视频专栏](https://m.lizhiweike.com/channel2/1037814)
-- 还是不知道怎么逆向？
-- 遇到问题不会处理？  
-快来试试作者匠心录制的视频系列课程吧~。  
-[人人都能学会的微信小程序逆向技能](https://m.lizhiweike.com/channel2/1037814)
-
-#### 项目推荐
-[微信小程序多端实时运行工具](https://github.com/wetools/wept)
-> WEPT项目从最近到后续即将升级WEPT2.0版本，支持运行微信小程序 小游戏基础库2.9后版本功能，同时支持实现ios Android三端统一运行环境，欢迎大家持续关注
-
-- WEPT 是一个微信小程序实时开发环境，它的目标是为小程序开发提供高效、稳定、友好、无限制的运行环境。
-- 项目后台使用 node 提供服务完全动态生成小程序，前端实现了 view 层、service 层和控制层之间的相关通讯逻辑。
-- 支持iOS Android Mac, Window 以及 Linux
-
 #### 实现微信小程序最新运行环境
 
 - [实现小程序编译和运行环境系列(一)](https://mp.weixin.qq.com/s/OjW7GYrNSq-5ojGC3Qa83g)
@@ -69,8 +54,5 @@ npm run build:win64
 - [实现小程序编译和运行环境系列(终)](https://mp.weixin.qq.com/s/go4imhKuAXv808c52UyiNg)
 - [如何深入分析小程序运行原理？](https://mp.weixin.qq.com/s/ZbUFogydJ1d1wGKIjzc21Q)
 
-#### [Download Released App](https://github.com/xuedingmiaojun/mp-unpack/releases)
-
-#### License [GPL](LICENSE.md)
 
   
