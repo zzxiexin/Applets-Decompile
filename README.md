@@ -47,17 +47,12 @@ npm run build:win32
 npm run build:win64
 ```
 
-#### 公众号
-<img src="gzh.jpg" alt="公众号" height="130" />
 
 #### [小程序逆向视频专栏](https://m.lizhiweike.com/channel2/1037814)
 - 还是不知道怎么逆向？
 - 遇到问题不会处理？  
 快来试试作者匠心录制的视频系列课程吧~。  
 [人人都能学会的微信小程序逆向技能](https://m.lizhiweike.com/channel2/1037814)
-
-#### 逆向疑难小程序
-- [逆向喜茶Go](https://www.bilibili.com/video/BV1Lv411a73w/)
 
 #### 项目推荐
 [微信小程序多端实时运行工具](https://github.com/wetools/wept)
@@ -76,10 +71,6 @@ npm run build:win64
 - [实现小程序编译和运行环境系列(五)](https://mp.weixin.qq.com/s/FMrmmAZoayld19WKW75hyQ)
 - [实现小程序编译和运行环境系列(终)](https://mp.weixin.qq.com/s/go4imhKuAXv808c52UyiNg)
 - [如何深入分析小程序运行原理？](https://mp.weixin.qq.com/s/ZbUFogydJ1d1wGKIjzc21Q)
-
-#### 捐赠
-<img src="wxpay.png" alt="wxpay" height="190" />
-<img src="alipay.png" alt="alipay" height="190" />
 
 #### [Download Released App](https://github.com/xuedingmiaojun/mp-unpack/releases)
 
